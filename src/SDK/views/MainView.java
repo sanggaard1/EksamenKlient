@@ -26,7 +26,7 @@ public class MainView {
         System.out.println("Vis alle bøger");
         System.out.println("Bla bla bla");
         System.out.println("bla bla ");
-        System.out.println("Bla bla bla");
+        System.out.println("Bla vla ");
 
         Scanner inputReader = new Scanner(System.in);
         int choice = inputReader.nextInt();

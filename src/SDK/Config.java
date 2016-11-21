@@ -13,6 +13,7 @@ public class Config {
 
     public JsonObject initConfig() {
 
+        // Tidligere version:
       //  Gson gson = new Gson();
       //  BufferedReader br = new BufferedReader(new InputStreamReader(this.getClass().getClassLoader().getResourceAsStream("/config.json")));
       //  ConfigMap config = gson.fromJson(br, ConfigMap.class);
